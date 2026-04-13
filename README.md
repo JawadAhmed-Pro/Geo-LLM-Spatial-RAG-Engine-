@@ -57,4 +57,4 @@ This will:
 - `run.bat`: One-click development runner.
 
 ## 📄 License
-This project is part of the Jiatrix Solutions Spatial Intelligence portfolio.
+This project is part of the Jawad Ahmed Spatial Intelligence portfolio.
