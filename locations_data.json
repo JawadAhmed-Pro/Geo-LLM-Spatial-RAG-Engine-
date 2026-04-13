@@ -1,0 +1,24 @@
+{
+  "elements": [
+    {
+        "type": "node", "id": 10001, "lat": 34.7717, "lon": 72.3602,
+        "tags": {"name": "Mingora", "place": "city"}
+    },
+    {
+        "type": "node", "id": 10002, "lat": 34.7500, "lon": 72.3500,
+        "tags": {"name": "Saidu Sharif", "place": "town"}
+    },
+    {
+        "type": "node", "id": 10003, "lat": 35.4833, "lon": 72.5833,
+        "tags": {"name": "Kalam", "place": "town"}
+    },
+    {
+        "type": "node", "id": 10004, "lat": 35.2000, "lon": 72.5333,
+        "tags": {"name": "Behrain", "place": "town"}
+    },
+    {
+        "type": "node", "id": 10005, "lat": 35.0667, "lon": 72.4667,
+        "tags": {"name": "Madyan", "place": "town"}
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+services:
+  db:
+    image: postgis/postgis:16-3.4
+    container_name: geollm_db
+    environment:
+      - POSTGRES_DB=geollm
+      - POSTGRES_USER=geollm
+      - POSTGRES_PASSWORD=geollm_secret
+    ports:
+      - "5432:5432"
+    volumes:
+      - geollm_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+volumes:
+  geollm_data:

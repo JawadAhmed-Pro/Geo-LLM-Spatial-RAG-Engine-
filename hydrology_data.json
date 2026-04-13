@@ -1,0 +1,17 @@
+{
+  "elements": [
+    {"type": "node", "id": 1, "lat": 34.6, "lon": 72.3},
+    {"type": "node", "id": 2, "lat": 34.7, "lon": 72.35},
+    {"type": "node", "id": 3, "lat": 34.8, "lon": 72.4},
+    {"type": "node", "id": 4, "lat": 34.9, "lon": 72.45},
+    {
+      "type": "way",
+      "id": 100,
+      "nodes": [1, 2, 3, 4],
+      "tags": {
+        "waterway": "river",
+        "name": "Swat River (Simulated)"
+      }
+    }
+  ]
+}
