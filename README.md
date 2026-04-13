@@ -17,6 +17,8 @@ An enterprise-grade Spatial Intelligence Platform designed for the Swat District
 - **Database**: PostgreSQL 16 + PostGIS 3.4 (Dockerized).
 - **Frontend**: Next.js 15, Tailwind CSS, Lucide icons, `react-map-gl`.
 - **Infrastructure**: Docker Compose, Mapbox.
+- <img width="1891" height="785" alt="Screenshot 2026-04-13 205058" src="https://github.com/user-attachments/assets/170ea902-34c9-42ef-acbb-89afc7a7b289" />
+
 
 ## 🏁 Quick Start
 
